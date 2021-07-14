@@ -2,6 +2,7 @@
   <div class="container">
     <div>
       <logo />
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/gRg8JHYhQK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <h1 class="title">
         The Life Saving Station
       </h1>
@@ -30,10 +31,10 @@
   </div>
 </template>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gRg8JHYhQK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <script>
-import Logo from '~/components/asset'
+import Logo from '~/components/Logo.vue'
 
 export default {
   components: {
