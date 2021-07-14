@@ -3,35 +3,37 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        The Life Saving Station
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        Videos and Tracts
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="url"
           target="_blank"
           rel="noopener"
           class="button--green"
         >
-          Documentation
+          Shop
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="url"
           target="_blank"
           rel="noopener"
           class="button--grey"
         >
-          GitHub
+          About
         </a>
       </div>
     </div>
   </div>
 </template>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gRg8JHYhQK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <script>
-import Logo from '~/components/Logo.vue'
+import Logo from '~/components/asset'
 
 export default {
   components: {
