@@ -10,7 +10,7 @@
       </h2>
       <div class="links">
         <a
-          href="https://www.mprintusa.com/"
+          href="https://www.mprintusa.com/product/group/Tracts"
           target="_blank"
           rel="noopener"
           class="button--green"
