@@ -15,10 +15,10 @@
           rel="noopener"
           class="button--green"
         >
-          Shop
+          Contact
         </a>
         <a
-          href="url"
+          href="contact.vue"
           target="_blank"
           rel="noopener"
           class="button--grey"
